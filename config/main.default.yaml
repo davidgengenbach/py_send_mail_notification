@@ -1,0 +1,6 @@
+sender: some@email.de
+password: the_password
+to: someother@email.de
+subject: NOTIFICATION
+smtp_server: mail.gmx.net
+smtp_port: 587
